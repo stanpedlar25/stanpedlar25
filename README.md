@@ -1,4 +1,4 @@
-# Hi, I'm David 👋
+# Hi, I'm David 
 
 **Cloud Engineer in training | AWS | DevOps | Infrastructure as Code**
 
