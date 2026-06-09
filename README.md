@@ -1,8 +1,7 @@
 # Hi, I'm David 
 
-**Cloud Engineer in training | AWS | DevOps | Infrastructure as Code**
-
-Based in London, UK 🇬🇧 — transitioning from 4 years of IT Support into Cloud Engineering, building hands-on AWS projects to reach a cloud engineering role by 2026.
+Cloud & Infrastructure Engineer | AWS | Kubernetes | Terraform | CI/CD"
+Based in London, UK - AWS-certified engineer with hands-on experience deploying production-grade infrastructure on AWS. Specialising in EKS, CI/CD pipelines, Terraform IaC, and serverless automation.
 
 ---
 
